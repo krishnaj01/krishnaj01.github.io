@@ -19,7 +19,7 @@ title: Krishna Jhanwar # the main title
 tagline: Explore, Engage, Evolve # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Web developer exploring the MERN stack, TypeScript, and Next.js. Passionate about crafting intuitive UIs, building scalable solutions, and enhancing creativity with AI. Also a core member of TPS, FOSS Club, and DesignX at IIT Bhilai. Capturing moments, coding ideas, and designing experiences.
+ My personal blogging platform where I share my thoughts, experiences, and technical insights.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,11 +38,11 @@ social:
   email: krishna.jhanwar2005@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/krishnaj01 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/krishna-jhanwar
 
 # Site Verification Settings
 webmaster_verifications:

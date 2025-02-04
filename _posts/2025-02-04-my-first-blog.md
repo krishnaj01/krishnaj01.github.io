@@ -6,7 +6,7 @@ categories: [First Blog]
 
 ## Welcome to My First Blog!
 
-Hey there! 🚀
+Hey there! 👋
 
 Welcome to My First Blog, where I share insights, experiences, and projects at the intersection of technology, design, and problem-solving. As a passionate web developer, UI/UX enthusiast, and open-source contributor, I aim to document my journey—building solutions that enhance efficiency, transparency, and creativity.
 
