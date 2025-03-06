@@ -1,7 +1,7 @@
 ---
 title: "Selection at FOSS Overflow 🚀 (Week 0)"
 date: 2025-02-04 05:35:00 +0530
-categories: [FOSS Overlflow]
+categories: [FOSS Overflow]
 tags: [MERN, WebDev, open-source]
 ---
 

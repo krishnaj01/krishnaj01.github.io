@@ -1,7 +1,7 @@
 ---
 title: "Week 2 & 3 at FOSS Overflow: Catching Up & Contributing 👍"
 date: 2025-02-27 19:24:23 +0530
-categories: [FOSS Overlflow]
+categories: [FOSS Overflow]
 tags: [MERN, WebDev, open-source, socket.io]
 ---
 

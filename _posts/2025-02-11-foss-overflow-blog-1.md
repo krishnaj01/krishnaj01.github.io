@@ -1,7 +1,7 @@
 ---
 title: "FOSS Overflow Week 1: Learning & Contributing 🛠️"
 date: 2025-02-11 22:30:00 +0530
-categories: [FOSS Overlflow]
+categories: [FOSS Overflow]
 tags: [MERN, WebDev, open-source, git, github, authentication]
 ---
 

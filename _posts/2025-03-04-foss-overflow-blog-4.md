@@ -1,7 +1,7 @@
 ---
 title: "FOSS Overflow Week 4: Building & Improving ⚙️"
 date: 2025-03-04 23:50:44 +0530
-categories: [FOSS Overlflow]
+categories: [FOSS Overflow]
 tags: [MERN, WebDev, open-source, cloudinary, file-uploads]
 ---
 
